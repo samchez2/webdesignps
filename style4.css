@@ -1,0 +1,30 @@
+.container{
+      width:1000;
+	  height:1200;
+	  background-image:url(portfolio.png);
+	  }
+.header{
+	width:300px;
+	  height:40px;
+	  
+	  position:relative;
+	  left:610px;
+	  top:19px;
+}
+.header a{
+     padding:10px;
+	 color:white;
+	  font-size:15px;
+	  font-family:Arial black;
+	  position:relative;
+	  top:8px;
+}  
+.header a:hover{
+     background-color:ff6600;
+	 
+}	
+.header a:active{
+     background-color:ffa970;
+}	 
+	 
+	   

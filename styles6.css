@@ -1,0 +1,45 @@
+.container{
+	width:1000px;
+	height:1200px;
+	background-image:url(contact.png)
+}
+.header{
+	width:300px;
+	  height:40px;
+	  
+	  position:relative;
+	  left:610px;
+	  top:19px;
+}
+.header a{
+     padding:10px;
+	 color:white;
+	  font-size:15px;
+	  font-family:Arial black;
+	  position:relative;
+	  top:8px;
+}  
+.header a:hover{
+     background-color:ff6600;
+	 
+}	
+.header a:active{
+     background-color:ffa970;
+}	 
+.contact{
+	width:300px;
+	  height:40px;
+	  
+	  position:relative;
+	  
+	  top:380px;
+	  right:270px;
+
+}	 
+.contact p{
+      color:white;
+position:relative;
+       bottom:2px;
+	   right:75px;
+	   font-size:25px
+}	   

@@ -1,0 +1,20 @@
+.container{
+       width:1000px;
+	   height:1200px;
+	   background-image:url(omeni.png)
+	   }
+.header a{
+       color:white;
+	   position:relative;
+	   left:610px;
+	   top:19px;
+	   padding:10px;
+	   font-size:15px;
+	   font-family:arial black;
+}
+.header a:hover{
+	background-color:ff6600;
+}
+.header a:active{
+	background-color:ffa970
+}
